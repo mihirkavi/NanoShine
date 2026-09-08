@@ -13,3 +13,11 @@ This archive includes customer-discovery interviews, survey responses, market-si
 ## Status
 
 NanoShine is a research and commercialization concept. The materials do not represent a clinically validated product or medical advice.
+
+## View the materials
+
+Browse the repository files and open documents, spreadsheets, presentations, or PDFs in a compatible viewer. This archive has no software installation or application build step.
+
+## License
+
+No license file is included in this repository. This README grants no additional reuse or redistribution permissions; contact the repository owner about permitted use.
