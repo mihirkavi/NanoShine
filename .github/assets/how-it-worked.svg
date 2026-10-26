@@ -1,33 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" font-family="-apple-system, Segoe UI, Inter, Helvetica, Arial, sans-serif">
-<rect width="1200" height="270" rx="20" fill="#F5F4F0"/>
-<text x="40" y="52" font-size="15" font-weight="600" fill="#6b6b6b" letter-spacing="1.5">HOW THE STUDY WORKED</text>
-<rect x="40" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#E4E2DC"/>
-<circle cx="70" cy="112" r="15" fill="#1F8A8A"/><text x="70" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">1</text>
-<text x="60" y="162" font-size="19" font-weight="700" fill="#111111">The science</text>
-<text x="60" y="194" font-size="14.5" fill="#55554F">Nanoparticles that can</text>
-<text x="60" y="216" font-size="14.5" fill="#55554F">penetrate plaque biofilm</text>
-<path d="M250 168 l14 0 m-6 -6 l6 6 l-6 6" stroke="#1F8A8A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-<rect x="269" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#E4E2DC"/>
-<circle cx="299" cy="112" r="15" fill="#1F8A8A"/><text x="299" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">2</text>
-<text x="289" y="162" font-size="19" font-weight="700" fill="#111111">Listen</text>
-<text x="289" y="194" font-size="14.5" fill="#55554F">42 data points from patients,</text>
-<text x="289" y="216" font-size="14.5" fill="#55554F">dentists and hygienists</text>
-<path d="M479 168 l14 0 m-6 -6 l6 6 l-6 6" stroke="#1F8A8A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-<rect x="498" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#E4E2DC"/>
-<circle cx="528" cy="112" r="15" fill="#1F8A8A"/><text x="528" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">3</text>
-<text x="518" y="162" font-size="19" font-weight="700" fill="#111111">Pick a beachhead</text>
-<text x="518" y="194" font-size="14.5" fill="#55554F">Water-flosser users who</text>
-<text x="518" y="216" font-size="14.5" fill="#55554F">already invest in hygiene</text>
-<path d="M707 168 l14 0 m-6 -6 l6 6 l-6 6" stroke="#1F8A8A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-<rect x="726" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#E4E2DC"/>
-<circle cx="756" cy="112" r="15" fill="#1F8A8A"/><text x="756" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">4</text>
-<text x="746" y="162" font-size="19" font-weight="700" fill="#111111">Size it</text>
-<text x="746" y="194" font-size="14.5" fill="#55554F">TAM, SAM and SOM from</text>
-<text x="746" y="216" font-size="14.5" fill="#55554F">flosser-market data</text>
-<path d="M936 168 l14 0 m-6 -6 l6 6 l-6 6" stroke="#1F8A8A" stroke-width="2.5" fill="none" stroke-linecap="round"/>
-<rect x="955" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#E4E2DC"/>
-<circle cx="985" cy="112" r="15" fill="#1F8A8A"/><text x="985" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">5</text>
-<text x="975" y="162" font-size="19" font-weight="700" fill="#111111">Plan the launch</text>
-<text x="975" y="194" font-size="14.5" fill="#55554F">Dentist samples, a flosser</text>
-<text x="975" y="216" font-size="14.5" fill="#55554F">partner, online sales</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 270" width="1200" height="270" font-family="IBM Plex Sans, -apple-system, Segoe UI, Helvetica, Arial, sans-serif">
+<rect width="1200" height="270" rx="20" fill="#EEF6F3"/>
+<text x="40" y="52" font-size="15" font-weight="600" fill="#2A8F7C" letter-spacing="1.5">HOW THE STUDY WORKED</text>
+<rect x="40" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#CFE4DE"/>
+<circle cx="70" cy="112" r="15" fill="#025471"/><text x="70" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">1</text>
+<text x="60" y="162" font-size="19" font-weight="700" fill="#06303F">The science</text>
+<text x="60" y="194" font-size="14.5" fill="#4F6B73">Nanoparticles that can</text>
+<text x="60" y="216" font-size="14.5" fill="#4F6B73">penetrate plaque biofilm</text>
+<path d="M250 168 l14 0 m-6 -6 l6 6 l-6 6" stroke="#025471" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<rect x="269" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#CFE4DE"/>
+<circle cx="299" cy="112" r="15" fill="#025471"/><text x="299" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">2</text>
+<text x="289" y="162" font-size="19" font-weight="700" fill="#06303F">Listen</text>
+<text x="289" y="194" font-size="14.5" fill="#4F6B73">42 data points from patients,</text>
+<text x="289" y="216" font-size="14.5" fill="#4F6B73">dentists and hygienists</text>
+<path d="M479 168 l14 0 m-6 -6 l6 6 l-6 6" stroke="#025471" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<rect x="498" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#CFE4DE"/>
+<circle cx="528" cy="112" r="15" fill="#025471"/><text x="528" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">3</text>
+<text x="518" y="162" font-size="19" font-weight="700" fill="#06303F">Pick a beachhead</text>
+<text x="518" y="194" font-size="14.5" fill="#4F6B73">Water-flosser users who</text>
+<text x="518" y="216" font-size="14.5" fill="#4F6B73">already invest in hygiene</text>
+<path d="M707 168 l14 0 m-6 -6 l6 6 l-6 6" stroke="#025471" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<rect x="726" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#CFE4DE"/>
+<circle cx="756" cy="112" r="15" fill="#025471"/><text x="756" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">4</text>
+<text x="746" y="162" font-size="19" font-weight="700" fill="#06303F">Size it</text>
+<text x="746" y="194" font-size="14.5" fill="#4F6B73">TAM, SAM and SOM from</text>
+<text x="746" y="216" font-size="14.5" fill="#4F6B73">flosser-market data</text>
+<path d="M936 168 l14 0 m-6 -6 l6 6 l-6 6" stroke="#025471" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<rect x="955" y="78" width="205" height="160" rx="14" fill="#FFFFFF" stroke="#CFE4DE"/>
+<circle cx="985" cy="112" r="15" fill="#025471"/><text x="985" y="117" font-size="14" font-weight="700" fill="#fff" text-anchor="middle">5</text>
+<text x="975" y="162" font-size="19" font-weight="700" fill="#06303F">Plan the launch</text>
+<text x="975" y="194" font-size="14.5" fill="#4F6B73">Dentist samples, a flosser</text>
+<text x="975" y="216" font-size="14.5" fill="#4F6B73">partner, online sales</text>
 </svg>

@@ -1,0 +1,66 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<!-- NanoShine README banner. Colors sampled from assets/brand/logo.png (marine teal #025471, sea-glass mint #7bccb9)
+     on pearl white. IBM Plex gives the sober, lab-notebook voice of a research study. -->
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@300;400;500;600&family=IBM+Plex+Mono:wght@400;500&display=block" rel="stylesheet">
+<style>
+:root{--bg:#f7f9f8;--ink:#06303f;--muted:#4f6b73;--teal:#025471;--mint:#7bccb9;--mint2:#bfe5db;--rule:#d5e3df;--field:#ffffff;--rod:#9fb7b2}
+@media (prefers-color-scheme:dark){:root{--bg:#04202b;--ink:#e8f4f1;--muted:#9ebdb8;--teal:#5fb8d6;--mint:#7bccb9;--mint2:#1d4a4a;--rule:#16404b;--field:#062b38;--rod:#4c6f72}}
+*{margin:0;box-sizing:border-box}
+body{width:1600px;height:600px;overflow:hidden;background:var(--bg);font-family:"IBM Plex Sans",sans-serif;color:var(--ink);position:relative}
+.top,.bot{position:absolute;left:96px;right:96px;border-top:1px solid var(--rule)}
+.top{top:64px}.bot{bottom:64px}
+.meta{position:absolute;left:96px;right:96px;top:34px;display:flex;justify-content:space-between;font:400 14px "IBM Plex Mono";letter-spacing:1.5px;color:var(--muted);text-transform:uppercase}
+.meta2{top:auto;bottom:34px}
+.left{position:absolute;left:96px;top:118px;width:820px}
+.brand{display:flex;align-items:center;gap:14px;font:600 28px "IBM Plex Sans";letter-spacing:-.3px}
+.brand img{width:50px;height:50px;border-radius:12px;background:#fff;padding:3px}
+h1{margin-top:30px;font:300 74px/1.04 "IBM Plex Sans";letter-spacing:-2.5px}
+h1 b{font-weight:600;color:var(--teal)}
+p{margin-top:24px;font:400 22px/1.5 "IBM Plex Sans";color:var(--muted);width:700px}
+.fig{position:absolute;right:120px;top:90px;width:380px;height:380px}
+.cap{position:absolute;right:120px;bottom:90px;width:380px;text-align:center;font:400 13px "IBM Plex Mono";color:var(--muted);letter-spacing:.5px}
+</style></head><body>
+<div class="meta"><span>Commercialization study · Spring 2023</span><span>Not clinically validated</span></div>
+<div class="top"></div><div class="bot"></div>
+<div class="meta meta2"><span>Science → customers → market → launch</span><span>Coursework · no product</span></div>
+<div class="left">
+ <div class="brand"><img src="../../../assets/brand/logo.png" alt="">NanoShine</div>
+ <h1>Fighting plaque<br><b>at the nanoscale.</b></h1>
+ <p>Could a nanoparticle rinse for water flossers break up dental biofilm? A student team tested who would buy it, and how.</p>
+</div>
+<svg class="fig" viewBox="0 0 420 420">
+ <defs><clipPath id="c"><circle cx="210" cy="210" r="196"/></clipPath>
+  <radialGradient id="np" cx=".35" cy=".35"><stop offset="0" stop-color="#ffffff" stop-opacity=".95"/><stop offset=".45" stop-color="var(--mint)"/><stop offset="1" stop-color="var(--teal)"/></radialGradient></defs>
+ <circle cx="210" cy="210" r="200" fill="var(--field)" stroke="var(--rule)" stroke-width="2"/>
+ <g clip-path="url(#c)">
+  <!-- biofilm: a mat of rods, breaking apart toward the upper right -->
+  <path d="M0 300 C 80 250 150 270 210 240 C 260 215 300 250 420 220 V420 H0Z" fill="var(--mint2)"/>
+  <g fill="var(--rod)">
+   <rect x="40" y="300" width="46" height="16" rx="8" transform="rotate(-18 63 308)"/>
+   <rect x="95" y="290" width="46" height="16" rx="8" transform="rotate(12 118 298)"/>
+   <rect x="150" y="270" width="46" height="16" rx="8" transform="rotate(-30 173 278)"/>
+   <rect x="70" y="340" width="46" height="16" rx="8" transform="rotate(25 93 348)"/>
+   <rect x="130" y="330" width="46" height="16" rx="8" transform="rotate(-8 153 338)"/>
+   <rect x="190" y="310" width="46" height="16" rx="8" transform="rotate(40 213 318)"/>
+   <rect x="250" y="285" width="46" height="16" rx="8" transform="rotate(-15 273 293)" opacity=".7"/>
+   <rect x="300" y="250" width="46" height="16" rx="8" transform="rotate(30 323 258)" opacity=".5"/>
+   <rect x="330" y="200" width="40" height="14" rx="7" transform="rotate(-40 350 207)" opacity=".35"/>
+   <rect x="20" y="380" width="46" height="16" rx="8" transform="rotate(5 43 388)"/>
+   <rect x="240" y="350" width="46" height="16" rx="8" transform="rotate(-22 263 358)"/>
+   <rect x="310" y="320" width="46" height="16" rx="8" transform="rotate(14 333 328)" opacity=".8"/>
+  </g>
+  <!-- nanoparticles drifting in from above -->
+  <g fill="url(#np)">
+   <circle cx="120" cy="110" r="16"/><circle cx="190" cy="80" r="11"/><circle cx="260" cy="130" r="19"/>
+   <circle cx="310" cy="90" r="9"/><circle cx="160" cy="180" r="13"/><circle cx="235" cy="205" r="15"/>
+   <circle cx="290" cy="190" r="10"/><circle cx="90" cy="200" r="9"/><circle cx="210" cy="255" r="11"/>
+  </g>
+  <g stroke="var(--teal)" stroke-width="1.6" stroke-dasharray="3 5" fill="none" opacity=".55">
+   <path d="M120 126 C 125 170 140 220 150 262"/><path d="M260 150 C 262 190 255 230 250 270"/><path d="M160 194 C 170 230 185 255 195 290"/>
+  </g>
+ </g>
+ <g stroke="var(--rule)" stroke-width="1.5"><path d="M210 2 V22 M210 398 V418 M2 210 H22 M398 210 H418"/></g>
+</svg>
+<div class="cap">Fig. 1 · Concept illustration, not data</div>
+</body></html>
