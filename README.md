@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset=".github/assets/banner-dark.png">
-    <img alt="NanoShine: fighting plaque at the nanoscale. A commercialization study for a nanoparticle rinse for water flossers that breaks up dental biofilm." src=".github/assets/banner-light.png" width="100%">
+    <img alt="NanoShine: fighting plaque at the nanoscale. A spring 2023 commercialization study, not clinically validated, of a nanoparticle rinse for water flossers, with a concept illustration of particles meeting a biofilm." src=".github/assets/banner-light.png" width="100%">
   </picture>
 </p>
 
@@ -19,10 +19,10 @@
 </p>
 
 <p align="center">
-  <img alt="Stage: research study" src="https://img.shields.io/badge/stage-research%20study-6b6b6b?style=flat-square">
-  <img alt="Not clinically validated" src="https://img.shields.io/badge/not%20clinically%20validated-6b6b6b?style=flat-square">
-  <img alt="Spring 2023" src="https://img.shields.io/badge/spring-2023-111111?style=flat-square">
-  <img alt="License: none" src="https://img.shields.io/badge/license-none-111111?style=flat-square">
+  <img alt="Stage: research study" src="https://img.shields.io/badge/stage-research%20study-025471?style=flat-square">
+  <img alt="Not clinically validated" src="https://img.shields.io/badge/not%20clinically%20validated-7bccb9?style=flat-square">
+  <img alt="Spring 2023" src="https://img.shields.io/badge/spring-2023-06303f?style=flat-square">
+  <img alt="License: none" src="https://img.shields.io/badge/license-none-06303f?style=flat-square">
 </p>
 
 <p align="center">
@@ -39,15 +39,15 @@ Dental plaque is a biofilm: a sticky community of bacteria that brushing and flo
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3>🔬 Science first</h3>
+      <h3>Science first</h3>
       Background research on nanoparticles and dental biofilms, using course materials on a nanoparticle technology.
     </td>
     <td width="33%" valign="top">
-      <h3>🗣️ Customer-led</h3>
+      <h3>Customer-led</h3>
       Interviews and a market survey with patients, dentists and hygienists shaped who the product is for.
     </td>
     <td width="33%" valign="top">
-      <h3>📈 Numbers to test</h3>
+      <h3>Numbers to test</h3>
       Market sizing, a six-year revenue and funding model, and a step-by-step go-to-market plan.
     </td>
   </tr>
